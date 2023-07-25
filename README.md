@@ -1,6 +1,6 @@
 # Integração de Aplicações com Banco de Dados
 
-Aprenda a integrar aplicações com bancos de dados de forma eficiente e confiável usando Factory Pattern, cláusulas SQL e exclusão lógica.
+Integrar aplicações com bancos de dados de forma eficiente e confiável usando Factory Pattern, cláusulas SQL e exclusão lógica.
 | 💾 Project | Vinicius Serrano    |
 | -------------  | --- |
 | :sparkles: Nome        | **Byte Bank**

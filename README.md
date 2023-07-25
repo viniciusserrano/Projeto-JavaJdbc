@@ -5,8 +5,8 @@ Desenvolver um esquema de Banco de Dados para suportar um e-commerce especializa
 | -------------  | --- |
 | :sparkles: Nome        | **Byte Bank**
 | :label: Tecnologias | Java, Lombok, Maven
-| :rocket: URL         | 
-| :fire: Desafio     | 
+| :rocket: URL         | [Java e JDBC/ POO](https://github.com/viniciusserrano/Projeto-JavaJdbc)
+| :fire: Desafio     | Integrar os objetos com o Banco de Dados
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](#vitrinedev)

@@ -1,6 +1,6 @@
-# Clube do Livro
+# Integração de Aplicações com Banco de Dados
 
-Desenvolver um schema de Banco de Dados para suportar um e-commerce especializado em livros.
+Aprenda a integrar aplicações com bancos de dados de forma eficiente e confiável usando Factory Pattern, cláusulas SQL e exclusão lógica.
 | 💾 Project | Vinicius Serrano    |
 | -------------  | --- |
 | :sparkles: Nome        | **Byte Bank**

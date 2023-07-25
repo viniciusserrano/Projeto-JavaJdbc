@@ -9,7 +9,7 @@ Desenvolver um schema de Banco de Dados para suportar um e-commerce especializad
 | :fire: Desafio     | Integrar os valores estáticos para objetos com o Banco de Dados.
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](#vitrinedev)
+![](BancoDeDados.png#vitrinedev)
 
 ## Detalhes do projeto
 

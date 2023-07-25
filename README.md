@@ -10,6 +10,7 @@ Desenvolver um schema de Banco de Dados para suportar um e-commerce especializad
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](BancoDeDados.png#vitrinedev)
+![](application.png#vitrinedev)
 
 ## Detalhes do projeto
 

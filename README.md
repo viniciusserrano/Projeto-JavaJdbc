@@ -4,7 +4,7 @@ Desenvolver um schema de Banco de Dados para suportar um e-commerce especializad
 | 💾 Project | Vinicius Serrano    |
 | -------------  | --- |
 | :sparkles: Nome        | **Byte Bank**
-| :label: Tecnologias | Java, Lombok, Maven
+| :label: Tecnologias | Java,MySQL , Lombok, Maven
 | :rocket: URL         | [Java e JDBC/ POO](https://github.com/viniciusserrano/Projeto-JavaJdbc)
 | :fire: Desafio     | Integrar os valores estáticos para objetos com o Banco de Dados.
 

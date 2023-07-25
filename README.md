@@ -14,4 +14,4 @@ Desenvolver um schema de Banco de Dados para suportar um e-commerce especializad
 
 ## Detalhes do projeto
 
-Neste projeto, aprendi sobre integrar uma aplicação com um banco de dados. Utilizamos o Factory Pattern para criar conexões de forma organizada, usar as cláusulas SQL de inserção (INSERT), atualização (UPDATE) e exclusão (DELETE) para salvar e manipular dados no banco, reutilizar conexões com um pool de conexões para melhorar a performance. Além disso, exclusão lógica para manter históricos de dados excluídos. Esses conhecimentos são essenciais para desenvolver aplicações eficientes e com acesso a dados de forma confiável.
+Neste projeto, aprendi como integrar uma aplicação com um banco de dados. Utilizamos o Factory Pattern para criar conexões de forma organizada, usar as cláusulas SQL de inserção (INSERT), atualização (UPDATE) e exclusão (DELETE) para salvar e manipular dados no banco, reutilizar conexões com um pool de conexões para melhorar a performance. Além disso, exclusão lógica para manter históricos de dados excluídos. Esses conhecimentos são essenciais para desenvolver aplicações eficientes e com acesso a dados de forma confiável.

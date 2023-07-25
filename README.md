@@ -13,8 +13,8 @@ Desenvolver um schema de Banco de Dados para suportar um e-commerce especializad
 
 ## Detalhes do projeto
 
-Saiba integrar uma aplicação com o banco de dados
-Aprender a utilizar o Factory Pattern e as cláusulas de inserção do SQL para salvar dados no banco
-Entenda como reaproveitar as conexões com o banco de dados usando um pool de conexões
-Compreenda como fazer alterações em dados já existentes no banco, utilizando a cláusula UPDATE do SQL
-Saiba usar a cláusula DELETE para apagar dados do banco, além de entender como realizar a exclusão lógica
+Saiba integrar uma aplicação com o banco de dados.
+Aprender a utilizar o Factory Pattern e as cláusulas de inserção do SQL para salvar dados no banco.
+Entenda como reaproveitar as conexões com o banco de dados usando um pool de conexões.
+Compreenda como fazer alterações em dados já existentes no banco, utilizando a cláusula UPDATE do SQL.
+Saiba usar a cláusula DELETE para apagar dados do banco, além de entender como realizar a exclusão lógica.

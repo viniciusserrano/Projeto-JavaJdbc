@@ -6,7 +6,7 @@ Desenvolver um schema de Banco de Dados para suportar um e-commerce especializad
 | :sparkles: Nome        | **Byte Bank**
 | :label: Tecnologias | Java, MySQL, Lombok, Maven
 | :rocket: URL         | [Java e JDBC/ POO](https://github.com/viniciusserrano/Projeto-JavaJdbc)
-| :fire: Desafio     | Integrar os valores estáticos para objetos com o Banco de Dados.
+| :fire: Desafio     | Substituir valores estáticos para objetos com o Banco de Dados.
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](BancoDeDados.png#vitrinedev)

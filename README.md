@@ -1,6 +1,6 @@
 # Clube do Livro
 
-Desenvolver um esquema de Banco de Dados para suportar um e-commerce especializado em livros.
+Desenvolver um schema de Banco de Dados para suportar um e-commerce especializado em livros.
 | 💾 Project | Vinicius Serrano    |
 | -------------  | --- |
 | :sparkles: Nome        | **Byte Bank**
